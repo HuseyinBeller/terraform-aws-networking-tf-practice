@@ -1,5 +1,4 @@
-# terraform-aws-networking-tf-practice
-Networking module created for Terraform practice
+# Networking Module
 
 This module manages the creation of VPCs and Subnets, allowing for the creation of both private and public subnets.
 
